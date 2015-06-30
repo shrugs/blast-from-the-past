@@ -1,0 +1,71 @@
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+     font-weight: 300;
+}
+
+header {
+  text-align: center;
+}
+
+header .cont {
+  margin: 0 auto;
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+header .logo {
+  float: left;
+  height: 80px;
+}
+
+header .brand {
+  margin-left: 20px;
+  font-size: 4em;
+  float: left;
+}
+
+.friends-select {
+  width: 100%;
+  display: none;
+}
+
+.fuckem-btn {
+  margin-top: 100px;
+  width: 100%;
+  font-size: 3em;
+}
+
+.btn-row {
+  display: none;
+}
+
+.item img {
+  height: 18px
+}
+
+.results-row {
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+
+.request-loading {
+  display: none;
+}
+
+.friend-name {
+  padding-left: 2%;
+}
+
+.img-cont {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.img-cont img {
+  height: 200px;
+}
+
+.loading {
+  text-align: center;
+}
